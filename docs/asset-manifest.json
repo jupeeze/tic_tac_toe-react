@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//jupeeze.github.io/tic_tac_toe-react/static/css/main.099d5327.css",
+    "main.js": "//jupeeze.github.io/tic_tac_toe-react/static/js/main.6ff636fe.js",
+    "index.html": "//jupeeze.github.io/tic_tac_toe-react/index.html",
+    "main.099d5327.css.map": "//jupeeze.github.io/tic_tac_toe-react/static/css/main.099d5327.css.map",
+    "main.6ff636fe.js.map": "//jupeeze.github.io/tic_tac_toe-react/static/js/main.6ff636fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.099d5327.css",
+    "static/js/main.6ff636fe.js"
+  ]
+}
